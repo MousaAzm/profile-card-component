@@ -4,7 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./assets/images/screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
@@ -17,6 +17,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - HTML5 
 - CSS 
 - SCSS
+
 ## Author
 
 - Frontend Mentor - [@MousaAzimi](https://www.frontendmentor.io/profile/MousaAzm)
